@@ -1,2 +1,2 @@
 # 2021-intro-to-python
-2021 SMART Skills Introduction to Python files
+Files for the 2021 University of Exeter Q-Step Centre SMART Skills course on Introduction to Python
